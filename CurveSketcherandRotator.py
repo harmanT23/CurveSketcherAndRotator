@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
-"""TatlaHarmanpritA5Q1
-￼￼
-
-COMP 1012 SECTION A01
-INSTRUCTOR Terrance H. Andres
-ASSIGNMENT: A5 Question 1
+"""
+￼
 AUTHOR Harmanprit Tatla
 VERSION 2015 - March - 27
 
